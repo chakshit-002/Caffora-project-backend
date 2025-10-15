@@ -8,7 +8,7 @@ const router = jsonServer.router('db.json');
 // Create default middlewares, but explicitly disable the static middleware.
 // This prevents json-server from searching for the non-existent 'public' folder.
 const middlewares = jsonServer.defaults({
-  static: false 
+  static: './public' 
 });
 
 // Use the PORT environment variable provided by Render, or 3000 for local development.
