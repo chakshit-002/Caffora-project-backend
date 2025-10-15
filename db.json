@@ -1,0 +1,874 @@
+{
+  "users": [
+    {
+      "id": "1aUSm5vCIHAVyWUhtx0Zp",
+      "name": "chakshit",
+      "email": "chintu13@gmail.com",
+      "phone": "1235467891",
+      "password": "852963",
+      "isAdmin": true,
+      "cart": []
+    },
+    {
+      "id": "xFkfZifFni07G45s8jIcX",
+      "name": "aabhas Nama",
+      "email": "aabhas@gmail.com",
+      "phone": "4567893210",
+      "password": "456789",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "YVVimads4tYvXzbmnknA1",
+      "name": "chintu",
+      "email": "chintu@gmail.com",
+      "phone": "78946132054",
+      "password": "123456",
+      "isAdmin": false,
+      "cart": []
+    },
+    {
+      "id": "QuQzf7vtAy6pZHAlqdDL9",
+      "name": "ayush pandey",
+      "email": "ayush2001@gmail.com",
+      "phone": "7894561302",
+      "password": "123456",
+      "isAdmin": false,
+      "cart": [
+        {
+          "product": {
+            "id": "1",
+            "image": [
+              "/CoffeeBeans/coffeebean1a.jpg",
+              "/CoffeeBeans/coffeebean1b.jpg"
+            ],
+            "title": "Authentic South Indian Kaapi",
+            "price": 580,
+            "description": "Premium South Indian filter coffee beans with rich aroma and chicory blend for classic taste.",
+            "category": "beans"
+          },
+          "quantity": 1
+        },
+        {
+          "product": {
+            "id": "5",
+            "image": [
+              "/CoffeeBeans/coffeebean5a.jpg",
+              "/CoffeeBeans/coffeebean5b.jpg"
+            ],
+            "title": "Caffora Morning Bliss",
+            "price": 830,
+            "description": "Authentic filter coffee blend in stainless steel packaging for freshness retention.",
+            "category": "beans"
+          },
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "image": [
+        "/CoffeeBeans/coffeebean1a.jpg",
+        "/CoffeeBeans/coffeebean1b.jpg"
+      ],
+      "title": "Authentic South Indian Kaapi",
+      "price": 580,
+      "description": "Premium South Indian filter coffee beans with rich aroma and chicory blend for classic taste.",
+      "category": "beans"
+    },
+    {
+      "id": "2",
+      "image": [
+        "/CoffeeBeans/coffeebean2a.jpg",
+        "/CoffeeBeans/coffeebean2b.jpg"
+      ],
+      "title": "Caffora Assort Hot Brew Box",
+      "price": 1000,
+      "description": "Variety pack including single serve pods for diverse filter coffee experiences.",
+      "category": "beans"
+    },
+    {
+      "id": "3",
+      "image": [
+        "/CoffeeBeans/coffeebean3a.jpg",
+        "/CoffeeBeans/coffeebean3b.jpg"
+      ],
+      "title": "Caffora Nutty Delight",
+      "price": 680,
+      "description": "Instant filter coffee blend with nutty flavor profile, perfect for quick brewing.",
+      "category": "beans"
+    },
+    {
+      "id": "4",
+      "image": [
+        "/CoffeeBeans/coffeebean4a.jpg",
+        "/CoffeeBeans/coffeebean4b.jpg"
+      ],
+      "title": "Caffora Filter Magic",
+      "price": 730,
+      "description": "Blend of ground and whole bean coffee with traditional South Indian flavor notes.",
+      "category": "beans"
+    },
+    {
+      "id": "5",
+      "image": [
+        "/CoffeeBeans/coffeebean5a.jpg",
+        "/CoffeeBeans/coffeebean5b.jpg"
+      ],
+      "title": "Caffora Morning Bliss",
+      "price": 830,
+      "description": "Authentic filter coffee blend in stainless steel packaging for freshness retention.",
+      "category": "beans"
+    },
+    {
+      "id": "6",
+      "image": [
+        "/CoffeeBeans/coffeebean6a.jpg",
+        "/CoffeeBeans/coffeebean6b.jpg"
+      ],
+      "title": "Caffora Classic Blend Robetta & Chicory",
+      "price": 810,
+      "description": "Traditional South Indian blend combining Robusta, Arabica, and chicory.",
+      "category": "beans"
+    },
+    {
+      "id": "7",
+      "image": [
+        "/CoffeeBeans/coffeebean7a.jpg",
+        "/CoffeeBeans/coffeebean7b.jpg"
+      ],
+      "title": "Caffora Hazelnut",
+      "price": 850,
+      "description": "Flavored coffee beans with hazelnut notes, balancing sweetness and robustness.",
+      "category": "beans"
+    },
+    {
+      "id": "8",
+      "image": [
+        "/CoffeeBeans/coffeebean8a.jpg",
+        "/CoffeeBeans/coffeebean8b.jpg"
+      ],
+      "title": "Caffora Hot Brew Box Premilan",
+      "price": 810,
+      "description": "Assorted flavored coffee pods with cinnamon, dark roast, and vanilla notes.",
+      "category": "beans"
+    },
+    {
+      "id": "9",
+      "image": [
+        "/CoffeeBeans/coffeebean9a.jpg",
+        "/CoffeeBeans/coffeebean9b.jpg"
+      ],
+      "title": "Caffora Morning Bliss Steel Can",
+      "price": 830,
+      "description": "Stainless steel container coffee blend featuring authentic South Indian filter coffee.",
+      "category": "beans"
+    },
+    {
+      "id": "10",
+      "image": [
+        "/CoffeeBeans/coffeebean10a.jpg",
+        "/CoffeeBeans/coffeebean10b.jpg"
+      ],
+      "title": "Caffora Classic Blend Robetta & Chicory Tin",
+      "price": 810,
+      "description": "Rich and aromatic traditional blend in black tin packaging.",
+      "category": "beans"
+    },
+    {
+      "id": "11",
+      "image": [
+        "/CoffeeBeans/coffeebean11a.jpg",
+        "/CoffeeBeans/coffeebean11b.jpg"
+      ],
+      "title": "Caffora Nutty Delight Eco Bag",
+      "price": 680,
+      "description": "Eco-friendly packaging with the same nutty delight instant filter coffee.",
+      "category": "beans"
+    },
+    {
+      "id": "12",
+      "image": [
+        "/CoffeeBeans/coffeebean12a.jpg",
+        "/CoffeeBeans/coffeebean12b.jpg"
+      ],
+      "title": "Caffora Kutiiria Filter Instant",
+      "price": 760,
+      "description": "South Indian Kaapi with chicory-rich blend in glass jar packaging.",
+      "category": "beans"
+    },
+    {
+      "id": "13",
+      "image": [
+        "/InstaPour/insta1a.jpg",
+        "/InstaPour/insta1b.jpg"
+      ],
+      "title": "InstaPour Classic",
+      "price": 159.99,
+      "description": "A sleek and simple InstaPour for everyday use.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "14",
+      "image": [
+        "/InstaPour/insta2a.jpg",
+        "/InstaPour/insta2b.jpg"
+      ],
+      "title": "InstaPour Pro",
+      "price": 169.99,
+      "description": "Enhanced pouring precision with durable finish.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "15",
+      "image": [
+        "/InstaPour/insta3a.jpg",
+        "/InstaPour/insta3b.jpg"
+      ],
+      "title": "InstaPour Mini",
+      "price": 149.99,
+      "description": "Compact and lightweight for travel-friendly pouring.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "16",
+      "image": [
+        "/InstaPour/insta4a.jpg",
+        "/InstaPour/insta4b.jpg"
+      ],
+      "title": "InstaPour Deluxe",
+      "price": 179.99,
+      "description": "Premium design with ergonomic grip for smooth flow.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "17",
+      "image": [
+        "/InstaPour/insta5a.jpg",
+        "/InstaPour/insta5b.jpg"
+      ],
+      "title": "InstaPour Eco",
+      "price": 154,
+      "description": "Sustainable materials with eco-friendly build.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "18",
+      "image": [
+        "/InstaPour/insta6a.jpg",
+        "/InstaPour/insta6b.jpg"
+      ],
+      "title": "InstaPour Ultra",
+      "price": 184.99,
+      "description": "High-capacity pour with long-lasting durability.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "19",
+      "image": [
+        "/InstaPour/insta7a.jpg",
+        "/InstaPour/insta7b.jpg"
+      ],
+      "title": "InstaPour Flex",
+      "price": 164.99,
+      "description": "Flexible neck design for versatile pouring styles.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "20",
+      "image": [
+        "/InstaPour/insta8a.jpg",
+        "/InstaPour/insta8b.jpg"
+      ],
+      "title": "InstaPour Slim",
+      "price": 157.99,
+      "description": "Slim design for easy handling and storage.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "21",
+      "image": [
+        "/InstaPour/insta9a.jpg",
+        "/InstaPour/insta9b.jpg"
+      ],
+      "title": "InstaPour Glass",
+      "price": 174.99,
+      "description": "Elegant glass build for modern kitchens.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "22",
+      "image": [
+        "/InstaPour/insta10a.jpg",
+        "/InstaPour/insta10b.jpg"
+      ],
+      "title": "InstaPour Steel",
+      "price": 169.49,
+      "description": "Stainless steel build for durability and hygiene.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "23",
+      "image": [
+        "/InstaPour/insta11a.jpg",
+        "/InstaPour/insta11b.jpg"
+      ],
+      "title": "InstaPour Compact",
+      "price": 152.99,
+      "description": "Easy to store, reliable for daily use.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "24",
+      "image": [
+        "/InstaPour/insta12a.jpg",
+        "/InstaPour/insta12b.jpg"
+      ],
+      "title": "InstaPour Bold",
+      "price": 161.99,
+      "description": "Bold design with strong performance output.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "25",
+      "image": [
+        "/InstaPour/insta13a.jpg",
+        "/InstaPour/insta13b.jpg"
+      ],
+      "title": "InstaPour Smart",
+      "price": 189.99,
+      "description": "Smart pouring technology with measurement accuracy.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "26",
+      "image": [
+        "/InstaPour/insta14a.jpg",
+        "/InstaPour/insta14b.jpg"
+      ],
+      "title": "InstaPour Travel",
+      "price": 148.99,
+      "description": "Portable design made for on-the-go use.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "27",
+      "image": [
+        "/InstaPour/insta15a.jpg",
+        "/InstaPour/insta15b.jpg"
+      ],
+      "title": "InstaPour Premium",
+      "price": 194.99,
+      "description": "Luxury-grade material with stunning finish.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "28",
+      "image": [
+        "/InstaPour/insta16a.jpg",
+        "/InstaPour/insta16b.jpg"
+      ],
+      "title": "InstaPour Aero",
+      "price": 172.99,
+      "description": "Lightweight and aerodynamic for ultra-smooth pouring.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "29",
+      "image": [
+        "/InstaPour/insta17a.jpg",
+        "/InstaPour/insta17b.jpg"
+      ],
+      "title": "InstaPour Grip",
+      "price": 163.49,
+      "description": "Non-slip grip ensuring safety and comfort.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "30",
+      "image": [
+        "/InstaPour/insta18a.jpg",
+        "/InstaPour/insta18b.jpg"
+      ],
+      "title": "InstaPour Classic Plus",
+      "price": 166.99,
+      "description": "Upgraded version of the classic model.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "31",
+      "image": [
+        "/InstaPour/insta19a.jpg",
+        "/InstaPour/insta19b.jpg"
+      ],
+      "title": "InstaPour Compact Pro",
+      "price": 158.99,
+      "description": "Compact design with professional-grade finish.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "32",
+      "image": [
+        "/InstaPour/insta20a.jpg",
+        "/InstaPour/insta20b.jpg"
+      ],
+      "title": "InstaPour Elite",
+      "price": 199.99,
+      "description": "Exclusive and elegant design for fine settings.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "33",
+      "image": [
+        "/InstaPour/insta21a.jpg",
+        "/InstaPour/insta21b.jpg"
+      ],
+      "title": "InstaPour Lite",
+      "price": 153.99,
+      "description": "Lightweight model, easy to pour and clean.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "34",
+      "image": [
+        "/InstaPour/insta22a.jpg",
+        "/InstaPour/insta22b.jpg"
+      ],
+      "title": "InstaPour Fusion",
+      "price": 177.99,
+      "description": "Fusion of style and performance in one pourer.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "35",
+      "image": [
+        "/InstaPour/insta23a.jpg",
+        "/InstaPour/insta23b.jpg"
+      ],
+      "title": "InstaPour Signature",
+      "price": 204.99,
+      "description": "Signature line with refined craftsmanship.",
+      "category": "InstaPour"
+    },
+    {
+      "id": "36",
+      "image": [
+        "/Equipments/coffeeVending1a.jpg",
+        "/Equipments/coffeeVending1b.jpg"
+      ],
+      "title": "Office Pro Vending Machine",
+      "price": 150130,
+      "description": "A fully automatic, multi-option coffee vending machine perfect for office spaces. Serves espresso, cappuccino, and lattes with a single touch.",
+      "category": "equipments"
+    },
+    {
+      "id": "37",
+      "image": [
+        "/Equipments/coffeeVending2a.jpg",
+        "/Equipments/coffeeVending2b.jpg"
+      ],
+      "title": "CafeExpress Compact Vender",
+      "price": 85130,
+      "description": "Compact and efficient, this machine is ideal for small cafes and restaurants. Offers 4 beverage options and requires minimal maintenance.",
+      "category": "equipments"
+    },
+    {
+      "id": "38",
+      "image": [
+        "/Equipments/coffeeVending3a.jpg",
+        "/Equipments/coffeeVending3b.jpg"
+      ],
+      "title": "Bean-to-Cup Commercial Vending",
+      "price": 225130,
+      "description": "High-capacity, bean-to-cup machine that grinds fresh coffee for every cup. Features a digital display and cashless payment options.",
+      "category": "equipments"
+    },
+    {
+      "id": "39",
+      "image": [
+        "/Equipments/coffeeVending4a.jpg",
+        "/Equipments/coffeeVending4b.jpg"
+      ],
+      "title": "InstaCuppa Hot & Cold Vending",
+      "price": 175130,
+      "description": "Versatile machine that dispenses both hot coffee beverages and cold coffee options. Perfect for canteens and large waiting areas.",
+      "category": "equipments"
+    },
+    {
+      "id": "40",
+      "image": [
+        "/Equipments/coffeeVending5a.jpg",
+        "/Equipments/coffeeVending5b.jpg"
+      ],
+      "title": "QuickBrew Tabletop Machine",
+      "price": 65130,
+      "description": "A simple, user-friendly tabletop coffee vending machine with 3 premix options. Ideal for small offices and reception areas.",
+      "category": "equipments"
+    },
+    {
+      "id": "41",
+      "image": [
+        "/Equipments/coffeeVending6a.jpg",
+        "/Equipments/coffeeVending6b.jpg"
+      ],
+      "title": "Corporate Deluxe Vending",
+      "price": 250130,
+      "description": "Premium vending solution with a sleek design, touch screen interface, and over 10 beverage selections including specialty coffees.",
+      "category": "equipments"
+    },
+    {
+      "id": "42",
+      "image": [
+        "/Equipments/filter1a.jpg",
+        "/Equipments/filter1b.jpg"
+      ],
+      "title": "V60 Cone Filter Papers (100-Pack)",
+      "price": 580,
+      "description": "High-quality, disposable paper filters designed for V60 drippers. Ensures a clean, sediment-free brew with optimal extraction.",
+      "category": "equipments"
+    },
+    {
+      "id": "43",
+      "image": [
+        "/Equipments/filter2a.jpg",
+        "/Equipments/filter2b.jpg"
+      ],
+      "title": "Chemex Bonded Filters (100-Pack)",
+      "price": 930,
+      "description": "Thicker, pre-folded circle filters designed specifically for Chemex brewers to remove impurities, oils, and grounds.",
+      "category": "equipments"
+    },
+    {
+      "id": "44",
+      "image": [
+        "/Equipments/filter3a.jpg",
+        "/Equipments/filter3b.jpg"
+      ],
+      "title": "Aeropress Micro-Filters (350-Pack)",
+      "price": 680,
+      "description": "Official micro-filters for the Aeropress coffee maker. Removes grit for a smoother cup of coffee. Comes in a pack of 350.",
+      "category": "equipments"
+    },
+    {
+      "id": "45",
+      "image": [
+        "/Equipments/grinder1a.jpg",
+        "/Equipments/grinder1b.jpg"
+      ],
+      "title": "Baratza Encore Conical Burr Grinder",
+      "price": 13630,
+      "description": "An excellent entry-level electric burr grinder with 40 individual grind settings, perfect for everything from French press to espresso.",
+      "category": "equipments"
+    },
+    {
+      "id": "46",
+      "image": [
+        "/Equipments/grinder2a.jpg",
+        "/Equipments/grinder2b.jpg"
+      ],
+      "title": "Timemore C2 Manual Grinder",
+      "price": 5630,
+      "description": "A high-quality manual coffee grinder with stainless steel conical burrs. Portable and precise, ideal for pour-over and Aeropress enthusiasts.",
+      "category": "equipments"
+    },
+    {
+      "id": "47",
+      "image": [
+        "/Coffees/coffee1a.jpg",
+        "/Coffees/coffee1b.jpg"
+      ],
+      "title": "Frost Latte",
+      "price": 370,
+      "description": "A refreshing and creamy iced latte, perfectly chilled and topped with a light, frothy milk foam. The ideal cold coffee to beat the heat.",
+      "category": "coffee"
+    },
+    {
+      "id": "48",
+      "image": [
+        "/Coffees/coffee2a.jpg",
+        "/Coffees/coffee2b.jpg"
+      ],
+      "title": "Vanilla Frost",
+      "price": 410,
+      "description": "A smooth and sweet blended cold coffee infused with rich vanilla bean flavor, topped with a swirl of whipped cream. A delightful frosty treat.",
+      "category": "coffee"
+    },
+    {
+      "id": "49",
+      "image": [
+        "/Coffees/coffee3a.jpg",
+        "/Coffees/coffee3b.jpg"
+      ],
+      "title": "Caffora Brew Dark",
+      "price": 310,
+      "description": "Our signature dark roast, brewed to perfection. This coffee offers a bold, intense flavor with notes of dark chocolate and a smoky finish.",
+      "category": "coffee"
+    },
+    {
+      "id": "50",
+      "image": [
+        "/Coffees/coffee4a.jpg",
+        "/Coffees/coffee4b.jpg"
+      ],
+      "title": "Caffora Mist",
+      "price": 350,
+      "description": "A balanced and smooth coffee featuring our classic brew topped with a layer of steamed, frothy milk. A gentle and comforting choice.",
+      "category": "coffee"
+    },
+    {
+      "id": "51",
+      "image": [
+        "/Coffees/coffee5a.jpg",
+        "/Coffees/coffee5b.jpg"
+      ],
+      "title": "Caffora Mist Chocolate",
+      "price": 380,
+      "description": "The comforting Caffora Mist, elevated with a rich swirl of premium chocolate syrup. A perfect blend of coffee and cocoa.",
+      "category": "coffee"
+    },
+    {
+      "id": "52",
+      "image": [
+        "/Coffees/coffee6a.jpg",
+        "/Coffees/coffee6b.jpg"
+      ],
+      "title": "Iced Brew",
+      "price": 320,
+      "description": "Our classic house brew, chilled over ice for a crisp and invigorating coffee experience. Simple, refreshing, and full-bodied.",
+      "category": "coffee"
+    },
+    {
+      "id": "53",
+      "image": [
+        "/Coffees/coffee7a.jpg",
+        "/Coffees/coffee7b.jpg"
+      ],
+      "title": "Caramel Swirl",
+      "price": 400,
+      "description": "A decadent latte with sweet caramel syrup swirled into rich espresso and steamed milk, finished with a caramel drizzle.",
+      "category": "coffee"
+    },
+    {
+      "id": "54",
+      "image": [
+        "/Coffees/coffee8a.jpg",
+        "/Coffees/coffee8b.jpg"
+      ],
+      "title": "Spincelere",
+      "price": 420,
+      "description": "An exotic blend of our signature espresso infused with a secret mix of warm spices, including cinnamon and nutmeg, for a uniquely tantalizing flavor.",
+      "category": "coffee"
+    },
+    {
+      "id": "55",
+      "image": [
+        "/Coffees/coffee9a.jpg",
+        "/Coffees/coffee9b.jpg"
+      ],
+      "title": "Caffora Brew",
+      "price": 290,
+      "description": "Our signature medium roast house blend. A well-rounded and smooth cup with a balanced flavor profile, perfect for any time of day.",
+      "category": "coffee"
+    },
+    {
+      "id": "56",
+      "image": [
+        "/Glasses&Mugs/mug8a.jpg",
+        "/Glasses&Mugs/mug8b.jpg"
+      ],
+      "title": "Minimalist Ceramic Mug (White)",
+      "price": 829,
+      "description": "A simple and elegant ceramic mug with a clean design and a comfortable handle. Your perfect everyday companion for any beverage.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "57",
+      "image": [
+        "/Glasses&Mugs/mug2a.jpg",
+        "/Glasses&Mugs/mug2b.jpg"
+      ],
+      "title": "Cappuccino Cup with Saucer",
+      "price": 580,
+      "description": "A wide-mouthed ceramic cup, ideal for serving a classic cappuccino with plenty of foam. Comes with a matching saucer.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "58",
+      "image": [
+        "/Glasses&Mugs/mug3a.jpg",
+        "/Glasses&Mugs/mug3b.jpg"
+      ],
+      "title": "Handmade Stoneware Tea Cup",
+      "price": 480,
+      "description": "A rustic, handle-less stoneware cup perfect for tea or coffee. Its earthy texture provides a comfortable and warm grip.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "59",
+      "image": [
+        "/Glasses&Mugs/mug4a.jpg",
+        "/Glasses&Mugs/mug4b.jpg"
+      ],
+      "title": "Double-Walled Glass Cup",
+      "price": 680,
+      "description": "This insulated glass cup keeps your drink hot while the exterior remains cool to the touch. Features a sleek, modern floating effect.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "60",
+      "image": [
+        "/Glasses&Mugs/mug5a.jpg",
+        "/Glasses&Mugs/mug5b.jpg"
+      ],
+      "title": "Tall Iced Coffee Glass",
+      "price": 430,
+      "description": "A tall, elegant glass with a heavy base, perfectly shaped for serving iced lattes, cold brew, and other chilled coffee creations.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "61",
+      "image": [
+        "/Glasses&Mugs/mug6a.jpg",
+        "/Glasses&Mugs/mug6b.jpg"
+      ],
+      "title": "Irish Coffee Glass Mug",
+      "price": 530,
+      "description": "A classic stemmed glass mug, traditionally used for Irish coffee but also great for lattes and hot chocolate.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "62",
+      "image": [
+        "/Glasses&Mugs/mug7a.jpg",
+        "/Glasses&Mugs/mug7b.jpg"
+      ],
+      "title": "Mason Jar Mug with Lid & Straw",
+      "price": 510,
+      "description": "A trendy and versatile mason jar mug with a handle, metal lid, and reusable straw. Ideal for iced coffees and smoothies.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "63",
+      "image": [
+        "/Glasses&Mugs/mug1a.jpg",
+        "/Glasses&Mugs/mug1b.jpg"
+      ],
+      "title": "Classic Espresso Cup",
+      "price": 380,
+      "description": "A small, traditional ceramic cup designed to hold a single or double shot of rich espresso. Perfect for savoring intense coffee flavors.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "64",
+      "image": [
+        "/Glasses&Mugs/mug9a.jpg",
+        "/Glasses&Mugs/mug9b.jpg"
+      ],
+      "title": "Stainless Steel Travel Mug",
+      "price": 1029,
+      "description": "A durable, insulated travel mug with a spill-proof lid. Keeps your coffee hot for hours, making it perfect for your daily commute.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "65",
+      "image": [
+        "/Glasses&Mugs/mug10a.jpg",
+        "/Glasses&Mugs/mug10b.jpg"
+      ],
+      "title": "Enamel Camping Mug",
+      "price": 480,
+      "description": "Lightweight and durable, this retro-style enamel mug is built for adventure. Ideal for camping, hiking, or a rustic feel at home.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "66",
+      "image": [
+        "/Glasses&Mugs/mug11a.jpg",
+        "/Glasses&Mugs/mug11b.jpg"
+      ],
+      "title": "Jumbo Soup & Coffee Mug",
+      "price": 629,
+      "description": "An oversized ceramic mug with a large capacity, perfect for those who like a generous serving of coffee, soup, or cereal.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "67",
+      "image": [
+        "/Glasses&Mugs/mug12a.jpg",
+        "/Glasses&Mugs/mug12b.jpg"
+      ],
+      "title": "Matte Black Modern Mug",
+      "price": 550,
+      "description": "A stylish and sophisticated mug with a smooth matte black finish. Its modern aesthetic elevates your coffee-drinking experience.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "68",
+      "image": [
+        "/Glasses&Mugs/mug13a.jpg",
+        "/Glasses&Mugs/mug13b.jpg"
+      ],
+      "title": "Hand-Painted Artisan Mug",
+      "price": 780,
+      "description": "A unique, one-of-a-kind mug, individually hand-painted by local artisans. A beautiful piece of functional art.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "69",
+      "image": [
+        "/Glasses&Mugs/mug14a.jpg",
+        "/Glasses&Mugs/mug14b.jpg"
+      ],
+      "title": "Clear Glass Coffee Mug",
+      "price": 450,
+      "description": "Enjoy the beautiful layers of your latte or cappuccino with this elegant and sturdy clear glass mug.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "70",
+      "image": [
+        "/Glasses&Mugs/mug15a.jpg",
+        "/Glasses&Mugs/mug15b.jpg"
+      ],
+      "title": "'But First, Coffee' Graphic Mug",
+      "price": 529,
+      "description": "Start your day with a smile. This fun ceramic mug features a playful 'But First, Coffee' graphic, perfect for any coffee lover.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "71",
+      "image": [
+        "/Glasses&Mugs/mug16a.jpg",
+        "/Glasses&Mugs/mug16b.jpg"
+      ],
+      "title": "Color-Changing Magic Mug",
+      "price": 680,
+      "description": "Pour in a hot beverage and watch as a hidden design magically appears! A fun and surprising gift for friends and family.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "72",
+      "image": [
+        "/Glasses&Mugs/mug17a.jpg",
+        "/Glasses&Mugs/mug17b.jpg"
+      ],
+      "title": "Set of 4 Stackable Mugs",
+      "price": 1330,
+      "description": "Save counter space with this clever set of four ceramic mugs that nestle perfectly into each other. Comes with a metal stand.",
+      "category": "mugs-and-glasses"
+    },
+    {
+      "id": "73",
+      "image": [
+        "/Glasses&Mugs/mug18a.jpg",
+        "/Glasses&Mugs/mug18b.jpg"
+      ],
+      "title": "Rustic Stoneware Mug",
+      "price": 610,
+      "description": "Featuring a speckled glaze and an earthy, robust feel, this stoneware mug brings a touch of rustic charm to your morning ritual.",
+      "category": "mugs-and-glasses"
+    }
+  ]
+}
