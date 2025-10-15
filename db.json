@@ -34,44 +34,15 @@
       "phone": "7894561302",
       "password": "123456",
       "isAdmin": false,
-      "cart": [
-        {
-          "product": {
-            "id": "1",
-            "image": [
-              "/CoffeeBeans/coffeebean1a.jpg",
-              "/CoffeeBeans/coffeebean1b.jpg"
-            ],
-            "title": "Authentic South Indian Kaapi",
-            "price": 580,
-            "description": "Premium South Indian filter coffee beans with rich aroma and chicory blend for classic taste.",
-            "category": "beans"
-          },
-          "quantity": 1
-        },
-        {
-          "product": {
-            "id": "5",
-            "image": [
-              "/CoffeeBeans/coffeebean5a.jpg",
-              "/CoffeeBeans/coffeebean5b.jpg"
-            ],
-            "title": "Caffora Morning Bliss",
-            "price": 830,
-            "description": "Authentic filter coffee blend in stainless steel packaging for freshness retention.",
-            "category": "beans"
-          },
-          "quantity": 1
-        }
-      ]
+      "cart": []
     }
   ],
   "products": [
     {
       "id": "1",
       "image": [
-        "/CoffeeBeans/coffeebean1a.jpg",
-        "/CoffeeBeans/coffeebean1b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Authentic South Indian Kaapi",
       "price": 580,
@@ -81,8 +52,8 @@
     {
       "id": "2",
       "image": [
-        "/CoffeeBeans/coffeebean2a.jpg",
-        "/CoffeeBeans/coffeebean2b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Assort Hot Brew Box",
       "price": 1000,
@@ -92,8 +63,8 @@
     {
       "id": "3",
       "image": [
-        "/CoffeeBeans/coffeebean3a.jpg",
-        "/CoffeeBeans/coffeebean3b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Nutty Delight",
       "price": 680,
@@ -103,8 +74,8 @@
     {
       "id": "4",
       "image": [
-        "/CoffeeBeans/coffeebean4a.jpg",
-        "/CoffeeBeans/coffeebean4b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Filter Magic",
       "price": 730,
@@ -114,8 +85,8 @@
     {
       "id": "5",
       "image": [
-        "/CoffeeBeans/coffeebean5a.jpg",
-        "/CoffeeBeans/coffeebean5b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Morning Bliss",
       "price": 830,
@@ -125,8 +96,8 @@
     {
       "id": "6",
       "image": [
-        "/CoffeeBeans/coffeebean6a.jpg",
-        "/CoffeeBeans/coffeebean6b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Classic Blend Robetta & Chicory",
       "price": 810,
@@ -136,8 +107,8 @@
     {
       "id": "7",
       "image": [
-        "/CoffeeBeans/coffeebean7a.jpg",
-        "/CoffeeBeans/coffeebean7b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Hazelnut",
       "price": 850,
@@ -147,8 +118,8 @@
     {
       "id": "8",
       "image": [
-        "/CoffeeBeans/coffeebean8a.jpg",
-        "/CoffeeBeans/coffeebean8b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Hot Brew Box Premilan",
       "price": 810,
@@ -158,8 +129,8 @@
     {
       "id": "9",
       "image": [
-        "/CoffeeBeans/coffeebean9a.jpg",
-        "/CoffeeBeans/coffeebean9b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Morning Bliss Steel Can",
       "price": 830,
@@ -169,8 +140,8 @@
     {
       "id": "10",
       "image": [
-        "/CoffeeBeans/coffeebean10a.jpg",
-        "/CoffeeBeans/coffeebean10b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Classic Blend Robetta & Chicory Tin",
       "price": 810,
@@ -180,8 +151,8 @@
     {
       "id": "11",
       "image": [
-        "/CoffeeBeans/coffeebean11a.jpg",
-        "/CoffeeBeans/coffeebean11b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Nutty Delight Eco Bag",
       "price": 680,
@@ -191,8 +162,8 @@
     {
       "id": "12",
       "image": [
-        "/CoffeeBeans/coffeebean12a.jpg",
-        "/CoffeeBeans/coffeebean12b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Kutiiria Filter Instant",
       "price": 760,
@@ -202,8 +173,8 @@
     {
       "id": "13",
       "image": [
-        "/InstaPour/insta1a.jpg",
-        "/InstaPour/insta1b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Classic",
       "price": 159.99,
@@ -213,8 +184,8 @@
     {
       "id": "14",
       "image": [
-        "/InstaPour/insta2a.jpg",
-        "/InstaPour/insta2b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Pro",
       "price": 169.99,
@@ -224,8 +195,8 @@
     {
       "id": "15",
       "image": [
-        "/InstaPour/insta3a.jpg",
-        "/InstaPour/insta3b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Mini",
       "price": 149.99,
@@ -235,8 +206,8 @@
     {
       "id": "16",
       "image": [
-        "/InstaPour/insta4a.jpg",
-        "/InstaPour/insta4b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Deluxe",
       "price": 179.99,
@@ -246,8 +217,8 @@
     {
       "id": "17",
       "image": [
-        "/InstaPour/insta5a.jpg",
-        "/InstaPour/insta5b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Eco",
       "price": 154,
@@ -257,8 +228,8 @@
     {
       "id": "18",
       "image": [
-        "/InstaPour/insta6a.jpg",
-        "/InstaPour/insta6b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Ultra",
       "price": 184.99,
@@ -268,8 +239,8 @@
     {
       "id": "19",
       "image": [
-        "/InstaPour/insta7a.jpg",
-        "/InstaPour/insta7b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Flex",
       "price": 164.99,
@@ -279,8 +250,8 @@
     {
       "id": "20",
       "image": [
-        "/InstaPour/insta8a.jpg",
-        "/InstaPour/insta8b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Slim",
       "price": 157.99,
@@ -290,8 +261,8 @@
     {
       "id": "21",
       "image": [
-        "/InstaPour/insta9a.jpg",
-        "/InstaPour/insta9b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Glass",
       "price": 174.99,
@@ -301,8 +272,8 @@
     {
       "id": "22",
       "image": [
-        "/InstaPour/insta10a.jpg",
-        "/InstaPour/insta10b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Steel",
       "price": 169.49,
@@ -312,8 +283,8 @@
     {
       "id": "23",
       "image": [
-        "/InstaPour/insta11a.jpg",
-        "/InstaPour/insta11b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Compact",
       "price": 152.99,
@@ -323,8 +294,8 @@
     {
       "id": "24",
       "image": [
-        "/InstaPour/insta12a.jpg",
-        "/InstaPour/insta12b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Bold",
       "price": 161.99,
@@ -334,8 +305,8 @@
     {
       "id": "25",
       "image": [
-        "/InstaPour/insta13a.jpg",
-        "/InstaPour/insta13b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Smart",
       "price": 189.99,
@@ -345,8 +316,8 @@
     {
       "id": "26",
       "image": [
-        "/InstaPour/insta14a.jpg",
-        "/InstaPour/insta14b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Travel",
       "price": 148.99,
@@ -356,8 +327,8 @@
     {
       "id": "27",
       "image": [
-        "/InstaPour/insta15a.jpg",
-        "/InstaPour/insta15b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Premium",
       "price": 194.99,
@@ -367,8 +338,8 @@
     {
       "id": "28",
       "image": [
-        "/InstaPour/insta16a.jpg",
-        "/InstaPour/insta16b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Aero",
       "price": 172.99,
@@ -378,8 +349,8 @@
     {
       "id": "29",
       "image": [
-        "/InstaPour/insta17a.jpg",
-        "/InstaPour/insta17b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Grip",
       "price": 163.49,
@@ -389,8 +360,8 @@
     {
       "id": "30",
       "image": [
-        "/InstaPour/insta18a.jpg",
-        "/InstaPour/insta18b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Classic Plus",
       "price": 166.99,
@@ -400,8 +371,8 @@
     {
       "id": "31",
       "image": [
-        "/InstaPour/insta19a.jpg",
-        "/InstaPour/insta19b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Compact Pro",
       "price": 158.99,
@@ -411,8 +382,8 @@
     {
       "id": "32",
       "image": [
-        "/InstaPour/insta20a.jpg",
-        "/InstaPour/insta20b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Elite",
       "price": 199.99,
@@ -422,8 +393,8 @@
     {
       "id": "33",
       "image": [
-        "/InstaPour/insta21a.jpg",
-        "/InstaPour/insta21b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Lite",
       "price": 153.99,
@@ -433,8 +404,8 @@
     {
       "id": "34",
       "image": [
-        "/InstaPour/insta22a.jpg",
-        "/InstaPour/insta22b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Fusion",
       "price": 177.99,
@@ -444,8 +415,8 @@
     {
       "id": "35",
       "image": [
-        "/InstaPour/insta23a.jpg",
-        "/InstaPour/insta23b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaPour Signature",
       "price": 204.99,
@@ -455,8 +426,8 @@
     {
       "id": "36",
       "image": [
-        "/Equipments/coffeeVending1a.jpg",
-        "/Equipments/coffeeVending1b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Office Pro Vending Machine",
       "price": 150130,
@@ -466,8 +437,8 @@
     {
       "id": "37",
       "image": [
-        "/Equipments/coffeeVending2a.jpg",
-        "/Equipments/coffeeVending2b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "CafeExpress Compact Vender",
       "price": 85130,
@@ -477,8 +448,8 @@
     {
       "id": "38",
       "image": [
-        "/Equipments/coffeeVending3a.jpg",
-        "/Equipments/coffeeVending3b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Bean-to-Cup Commercial Vending",
       "price": 225130,
@@ -488,8 +459,8 @@
     {
       "id": "39",
       "image": [
-        "/Equipments/coffeeVending4a.jpg",
-        "/Equipments/coffeeVending4b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "InstaCuppa Hot & Cold Vending",
       "price": 175130,
@@ -499,8 +470,8 @@
     {
       "id": "40",
       "image": [
-        "/Equipments/coffeeVending5a.jpg",
-        "/Equipments/coffeeVending5b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "QuickBrew Tabletop Machine",
       "price": 65130,
@@ -510,8 +481,8 @@
     {
       "id": "41",
       "image": [
-        "/Equipments/coffeeVending6a.jpg",
-        "/Equipments/coffeeVending6b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Corporate Deluxe Vending",
       "price": 250130,
@@ -521,8 +492,8 @@
     {
       "id": "42",
       "image": [
-        "/Equipments/filter1a.jpg",
-        "/Equipments/filter1b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "V60 Cone Filter Papers (100-Pack)",
       "price": 580,
@@ -532,8 +503,8 @@
     {
       "id": "43",
       "image": [
-        "/Equipments/filter2a.jpg",
-        "/Equipments/filter2b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Chemex Bonded Filters (100-Pack)",
       "price": 930,
@@ -543,8 +514,8 @@
     {
       "id": "44",
       "image": [
-        "/Equipments/filter3a.jpg",
-        "/Equipments/filter3b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Aeropress Micro-Filters (350-Pack)",
       "price": 680,
@@ -554,8 +525,8 @@
     {
       "id": "45",
       "image": [
-        "/Equipments/grinder1a.jpg",
-        "/Equipments/grinder1b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Baratza Encore Conical Burr Grinder",
       "price": 13630,
@@ -565,8 +536,8 @@
     {
       "id": "46",
       "image": [
-        "/Equipments/grinder2a.jpg",
-        "/Equipments/grinder2b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Timemore C2 Manual Grinder",
       "price": 5630,
@@ -576,8 +547,8 @@
     {
       "id": "47",
       "image": [
-        "/Coffees/coffee1a.jpg",
-        "/Coffees/coffee1b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Frost Latte",
       "price": 370,
@@ -587,8 +558,8 @@
     {
       "id": "48",
       "image": [
-        "/Coffees/coffee2a.jpg",
-        "/Coffees/coffee2b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Vanilla Frost",
       "price": 410,
@@ -598,8 +569,8 @@
     {
       "id": "49",
       "image": [
-        "/Coffees/coffee3a.jpg",
-        "/Coffees/coffee3b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Brew Dark",
       "price": 310,
@@ -609,8 +580,8 @@
     {
       "id": "50",
       "image": [
-        "/Coffees/coffee4a.jpg",
-        "/Coffees/coffee4b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Mist",
       "price": 350,
@@ -620,8 +591,8 @@
     {
       "id": "51",
       "image": [
-        "/Coffees/coffee5a.jpg",
-        "/Coffees/coffee5b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Mist Chocolate",
       "price": 380,
@@ -631,8 +602,8 @@
     {
       "id": "52",
       "image": [
-        "/Coffees/coffee6a.jpg",
-        "/Coffees/coffee6b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Iced Brew",
       "price": 320,
@@ -642,8 +613,8 @@
     {
       "id": "53",
       "image": [
-        "/Coffees/coffee7a.jpg",
-        "/Coffees/coffee7b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caramel Swirl",
       "price": 400,
@@ -653,8 +624,8 @@
     {
       "id": "54",
       "image": [
-        "/Coffees/coffee8a.jpg",
-        "/Coffees/coffee8b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Spincelere",
       "price": 420,
@@ -664,8 +635,8 @@
     {
       "id": "55",
       "image": [
-        "/Coffees/coffee9a.jpg",
-        "/Coffees/coffee9b.jpg"
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "https://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Caffora Brew",
       "price": 290,
@@ -675,8 +646,8 @@
     {
       "id": "56",
       "image": [
-        "/Glasses&Mugs/mug8a.jpg",
-        "/Glasses&Mugs/mug8b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Minimalist Ceramic Mug (White)",
       "price": 829,
@@ -686,8 +657,8 @@
     {
       "id": "57",
       "image": [
-        "/Glasses&Mugs/mug2a.jpg",
-        "/Glasses&Mugs/mug2b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Cappuccino Cup with Saucer",
       "price": 580,
@@ -697,8 +668,8 @@
     {
       "id": "58",
       "image": [
-        "/Glasses&Mugs/mug3a.jpg",
-        "/Glasses&Mugs/mug3b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Handmade Stoneware Tea Cup",
       "price": 480,
@@ -708,8 +679,8 @@
     {
       "id": "59",
       "image": [
-        "/Glasses&Mugs/mug4a.jpg",
-        "/Glasses&Mugs/mug4b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Double-Walled Glass Cup",
       "price": 680,
@@ -719,8 +690,8 @@
     {
       "id": "60",
       "image": [
-        "/Glasses&Mugs/mug5a.jpg",
-        "/Glasses&Mugs/mug5b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Tall Iced Coffee Glass",
       "price": 430,
@@ -730,8 +701,8 @@
     {
       "id": "61",
       "image": [
-        "/Glasses&Mugs/mug6a.jpg",
-        "/Glasses&Mugs/mug6b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Irish Coffee Glass Mug",
       "price": 530,
@@ -741,8 +712,8 @@
     {
       "id": "62",
       "image": [
-        "/Glasses&Mugs/mug7a.jpg",
-        "/Glasses&Mugs/mug7b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Mason Jar Mug with Lid & Straw",
       "price": 510,
@@ -752,8 +723,8 @@
     {
       "id": "63",
       "image": [
-        "/Glasses&Mugs/mug1a.jpg",
-        "/Glasses&Mugs/mug1b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Classic Espresso Cup",
       "price": 380,
@@ -763,8 +734,8 @@
     {
       "id": "64",
       "image": [
-        "/Glasses&Mugs/mug9a.jpg",
-        "/Glasses&Mugs/mug9b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Stainless Steel Travel Mug",
       "price": 1029,
@@ -774,8 +745,8 @@
     {
       "id": "65",
       "image": [
-        "/Glasses&Mugs/mug10a.jpg",
-        "/Glasses&Mugs/mug10b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Enamel Camping Mug",
       "price": 480,
@@ -785,8 +756,8 @@
     {
       "id": "66",
       "image": [
-        "/Glasses&Mugs/mug11a.jpg",
-        "/Glasses&Mugs/mug11b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Jumbo Soup & Coffee Mug",
       "price": 629,
@@ -796,8 +767,8 @@
     {
       "id": "67",
       "image": [
-        "/Glasses&Mugs/mug12a.jpg",
-        "/Glasses&Mugs/mug12b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Matte Black Modern Mug",
       "price": 550,
@@ -807,8 +778,8 @@
     {
       "id": "68",
       "image": [
-        "/Glasses&Mugs/mug13a.jpg",
-        "/Glasses&Mugs/mug13b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Hand-Painted Artisan Mug",
       "price": 780,
@@ -818,8 +789,8 @@
     {
       "id": "69",
       "image": [
-        "/Glasses&Mugs/mug14a.jpg",
-        "/Glasses&Mugs/mug14b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Clear Glass Coffee Mug",
       "price": 450,
@@ -829,8 +800,8 @@
     {
       "id": "70",
       "image": [
-        "/Glasses&Mugs/mug15a.jpg",
-        "/Glasses&Mugs/mug15b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "'But First, Coffee' Graphic Mug",
       "price": 529,
@@ -840,8 +811,8 @@
     {
       "id": "71",
       "image": [
-        "/Glasses&Mugs/mug16a.jpg",
-        "/Glasses&Mugs/mug16b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Color-Changing Magic Mug",
       "price": 680,
@@ -851,8 +822,8 @@
     {
       "id": "72",
       "image": [
-        "/Glasses&Mugs/mug17a.jpg",
-        "/Glasses&Mugs/mug17b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Set of 4 Stackable Mugs",
       "price": 1330,
@@ -862,8 +833,8 @@
     {
       "id": "73",
       "image": [
-        "/Glasses&Mugs/mug18a.jpg",
-        "/Glasses&Mugs/mug18b.jpg"
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500",
+        "/Glasseshttps://images.unsplash.com/photo-1760507618869-5a732c49711d?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw0fHx8ZW58MHx8fHx8&auto=format&fit=crop&q=60&w=500"
       ],
       "title": "Rustic Stoneware Mug",
       "price": 610,
